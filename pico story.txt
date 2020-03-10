@@ -1,0 +1,31 @@
+[33mcommit 59070fce090ec6d05b547f6ec49f9f4ff13b70f8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ismael Jaffri <ismael@royal-03.cs.wisc.edu>
+Date:   Tue Mar 10 16:11:50 2020 -0500
+
+    Ismael Jaffri Addition
+
+[33mcommit ee2e3606372edcc1cc310d9141c0676e9f6a6102[m
+Author: Xiaoxi Sun <xiaoxi@royal-13.cs.wisc.edu>
+Date:   Thu Feb 27 12:16:57 2020 -0600
+
+    first paragraph
+
+[33mcommit ccacdad2dfa35f570733967e8b795d05e089eaf9[m
+Author: xsun279 <61557874+xsun279@users.noreply.github.com>
+Date:   Thu Feb 27 12:10:55 2020 -0600
+
+    Delete story.txt
+
+[33mcommit f43f491dd0350f14d72ac3b60c2cf82902917878[m
+Author: xsun279 <61557874+xsun279@users.noreply.github.com>
+Date:   Thu Feb 27 12:09:51 2020 -0600
+
+    Create story.txt
+    
+    Start of this story.
+
+[33mcommit a337d875a3fbd265d4029f9bcbb6a0a1e3dd37c5[m
+Author: xsun279 <61557874+xsun279@users.noreply.github.com>
+Date:   Thu Feb 27 11:51:07 2020 -0600
+
+    Initial commit
